@@ -16,7 +16,7 @@ To design responsive basic mobile and web layouts for a given case study using F
 
 ## Output:
 
-<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/9b006d31-3ebd-47e1-aacf-b7b0aaa9812a" />
+<img width="1914" height="1007" alt="image" src="https://github.com/user-attachments/assets/be2a10a7-6f02-47fe-8173-d02626638b1e" />
 
 ## Result:
 
